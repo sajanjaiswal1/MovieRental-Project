@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
-    "flowbite": "^2.3.0",
+    "flowbite": "^2.4.1",
     "flowbite-react": "^0.7.5",
     "postcss": "^8.4.38",
     "react": "^18.2.0",
